@@ -4,6 +4,7 @@ Our project focuses on TIBCO, which offers an array of low- or no-code products 
 
 In this GitHub, we include a copy of our presentation, flyer, and a detailed walk-through of a streaming analytics use case with TIBCO. If you have questions, please feel free to email us. You can also find out more information about TIBCO and their products at https://www.tibco.com/. Happy analyzing!
 
-Team 5
+Team 5  
+
 Casey (easte060@umn.edu) | Harshitha (kurim006@umn.edu) | Shilin (yue00057@umn.edu) | Arnuv (arora141@umn.edu)
 
