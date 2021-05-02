@@ -17,7 +17,7 @@ TIBCO offers an array of low- or no-code products for data visualization and ana
 A detailed walk-through of our use of TIBCO for analyzing streaming data from the Mercedes Motorsports team can be found here: https://youtu.be/7Snkc7kl2p8. The video details: 
 
 - the setup process for TIBCO Streaming, 
-- steps for loading streaming data
+- steps for loading streaming data,
 - instructions for preparing and tailoring visualizations
 
 ## Concluding Remarks
