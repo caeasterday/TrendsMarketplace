@@ -31,5 +31,7 @@ We hope you find this information on the use of TIBCO, a low-code solution for b
 
 Casey (easte060@umn.edu) | Harshitha (kurim006@umn.edu) | Shilin (yue00057@umn.edu) | Arnuv (arora141@umn.edu)
 
+<br>
+<br>
 
 <I>This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.</i>
