@@ -2,9 +2,9 @@
 
 ## Why TIBCO?
 
-As many of us are aware, the use of big data is nearly ubiquitous in today’s business world. Some common big data analytics applications that we are all aware of include the autocomplete on Google’s search bar, fraud detection algorithms used by banks and credit card companies, and the recommendation systems used by companies like Netflix and Spotify. Not surprisingly, as of last year, over 80% of companies are investing in big data. With the increasing reliance on big data comes a need for professionals who are capable of using the data to generate value. However, the supply of these highly skilled professionals is not keeping pace with demand. QuantHub estimated a shortage of 250 thousand data professionals in 2020.
+As many of us are aware, the use of big data is nearly ubiquitous in today’s business world. Some common big data analytics applications that we are all aware of include the autocomplete on Google’s search bar, fraud detection algorithms used by banks and credit card companies, and the recommendation systems used by companies like Netflix and Spotify (2). Not surprisingly, as of last year, over 80% of companies are investing in big data (3). With the increasing reliance on big data comes a need for professionals who are capable of using the data to generate value. However, the supply of these highly skilled professionals is not keeping pace with demand. QuantHub estimated a shortage of 250 thousand data professionals in 2020 (3).
 
-Despite the shortage of data professionals, the use of big data in the internet of things is taking off. A 2020 congressional report defined the internet of things as “a collection of electronic devices that can share information among themselves.” In 2019, a McKinsey report estimated 25% of companies are using IoT technology, and as you can see in the figure on the left, investment in IoT technology is increasing at a faster rate every year. IoT has applications across industries, from manufacturing, to retail, food-service and more.
+Despite the shortage of data professionals, the use of big data in the internet of things is taking off. A 2020 congressional report defined the internet of things as “a collection of electronic devices that can share information among themselves” (4). In 2019, a McKinsey report estimated 25% of companies are using IoT technology, and as you can see in the figure on the left, investment in IoT technology is increasing at a faster rate every year (5). IoT has applications across industries, from manufacturing, to retail, food-service and more.
 
 With increasing use of IoT and not enough data professionals, companies need to find ways to cope. One possible solution is to train less technical employees, but for that to work, companies need the right tools. That’s where tibco comes into play.
 
@@ -30,6 +30,17 @@ We hope you find this information on the use of TIBCO, a low-code solution for b
 ### Team 5  
 
 Casey (easte060@umn.edu) | Harshitha (kurim006@umn.edu) | Shilin (yue00057@umn.edu) | Arnuv (arora141@umn.edu)
+
+<br>
+<br>
+
+### Works Consulted
+
+1. https://www.tibco.com/
+2. Anderson, J., Lee, R. (2012). Main Findings: Influence of Big Data in 2020. Pew Research.
+3. Dubois, J. (2020). The Data Scientist Shortage in 2020. Quanthub.
+4. Congressional Research Service. (2020). The Internet of Things (IoT): An Overview. Crsreports.congress.gov
+5. Dalqvist, F., Patel, M, Rajko, J., Shulman, J. (2019). Growing opportunities in the Internet of Things. McKinsey.com.
 
 <br>
 <br>
