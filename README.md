@@ -25,10 +25,11 @@ A detailed walk-through of our use of TIBCO for analyzing streaming data from th
 We hope you find this information on the use of TIBCO, a low-code solution for big data and streaming analytics, informative and helpful. A copy of our full presentation can be found at: https://www.youtube.com/watch?v=LgIoAfFUjTc. If you have questions, please feel free to email us. You can also find out more information about TIBCO and their products at https://www.tibco.com/.
 
 <br>
+<br>
 
 ### Team 5  
 
 Casey (easte060@umn.edu) | Harshitha (kurim006@umn.edu) | Shilin (yue00057@umn.edu) | Arnuv (arora141@umn.edu)
 
 
-This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.
+<I>This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.</i>
