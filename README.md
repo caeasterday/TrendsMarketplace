@@ -24,8 +24,7 @@ A detailed walk-through of our use of TIBCO for analyzing streaming data from th
 
 We hope you find this information on the use of TIBCO, a low-code solution for big data and streaming analytics, informative and helpful. A copy of our full presentation can be found at: https://www.youtube.com/watch?v=LgIoAfFUjTc. If you have questions, please feel free to email us. You can also find out more information about TIBCO and their products at https://www.tibco.com/.
 
-
-
+<br>
 
 ### Team 5  
 
