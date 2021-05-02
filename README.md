@@ -6,11 +6,11 @@ As many of us are aware, the use of big data is nearly ubiquitous in today’s b
 
 Despite the shortage of data professionals, the use of big data in the internet of things is taking off. A 2020 congressional report defined the internet of things as “a collection of electronic devices that can share information among themselves” (4). In 2019, a McKinsey report estimated 25% of companies are using IoT technology, and as you can see in the figure on the left, investment in IoT technology is increasing at a faster rate every year (5). IoT has applications across industries, from manufacturing, to retail, food-service and more.
 
-With increasing use of IoT and not enough data professionals, companies need to find ways to cope. One possible solution is to train less technical employees, but for that to work, companies need the right tools. That’s where tibco comes into play.
+With increasing use of IoT and not enough data professionals, companies need to find ways to cope. One possible solution is to train less technical employees, but for that to work, companies need the right tools. That’s where TIBCO comes into play.
 
 ## What is TIBCO?
 
-TIBCO offers an array of low- or no-code products for data visualization and analysis. Their tools integrate with many big data technologies like Apache Kafka to allow streaming analytics of dynamic data like IoT. Tibco can be deployed on premises and managed with Docker and Kubernetes, or it can spun up to the cloud in AWS, Azure or Google’s Cloud platform.
+TIBCO offers an array of low- or no-code products for data visualization and analysis. Their tools integrate with many big data technologies like Apache Kafka to allow streaming analytics of dynamic data like IoT. TIBCO can be deployed on premises and managed with Docker and Kubernetes, or it can spun up to the cloud in AWS, Azure or Google’s Cloud platform.
 
 ## Demonstration of TIBCO for Streaming Analytics
 
